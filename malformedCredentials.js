@@ -1,0 +1,1 @@
+The Firebase Admin SDK's `initializeApp()` function might throw an unexpected error if the credentials file is improperly formatted or missing required fields.  This can lead to cryptic error messages that don't clearly pinpoint the issue in the credentials file.
